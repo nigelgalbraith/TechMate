@@ -5,11 +5,11 @@ const MAIN_TEXT_DATA = {
 
   home: {
     paragraphs: [
-      "Local Computer Help (Chch) provides practical computer support for home users in Christchurch. If your computer is running slow, crashing, not connecting to Wi-Fi, or you just need a new setup done properly, I can help.",
+      "TechMate provides practical computer support for home users in Christchurch. If your computer is running slow, crashing, not connecting to Wi-Fi, or you need a new setup done properly, I can help.",
       
-      "The goal is simple: fix the problem, explain what was done in plain English, and leave you with a setup that’s stable and easy to use. To get started, email or call with what’s happening and what device you’re using. If you're not sure how to describe the problem, that’s fine just explain it in your own words.",
+      "The goal is simple: keep your data safe, keep your system secure, and make your computer less annoying to use. That means practical fixes, plain English explanations, and a setup that feels stable and easy to live with.",
       
-      "I’m Nigel Galbraith. I provide straightforward computer and IT support without jargon or upselling. My background includes computer repair, Windows and Linux systems, networking basics, and automation. I focus on practical fixes that make day-to-day use easier and more reliable."
+      "I’m Nigel Galbraith. I provide straightforward computer and IT support without jargon or upselling. My background includes computer repair, Windows and Linux systems, networking, and automation. I focus on practical help that solves the problem and makes day-to-day use easier."
     ]
   },
 
