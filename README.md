@@ -1,4 +1,4 @@
-# Local Computer Help – Christchurch
+# TechMate
 
 This repository contains the source code for a simple static website used for my local computer help service in Christchurch, New Zealand.
 
